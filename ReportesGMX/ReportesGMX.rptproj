@@ -57,6 +57,10 @@
       <Name>Temporario.rdl</Name>
       <FullPath>Temporario.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>DetCtaCorriente.rdl</Name>
+      <FullPath>DetCtaCorriente.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
