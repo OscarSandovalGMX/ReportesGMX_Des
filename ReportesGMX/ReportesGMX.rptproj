@@ -10,6 +10,10 @@
   <DataSets />
   <Reports>
     <ProjectItem>
+      <Name>AvisoCobroSin.rdl</Name>
+      <FullPath>AvisoCobroSin.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>DetalleOP.rdl</Name>
       <FullPath>DetalleOP.rdl</FullPath>
     </ProjectItem>
@@ -54,12 +58,23 @@
       <FullPath>ReporteadorBI.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
+      <Name>SubAvisoCobroEstim.rdl</Name>
+      <FullPath>SubAvisoCobroEstim.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SubAvisoCobroPagado.rdl</Name>
+      <FullPath>SubAvisoCobroPagado.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SubAvisoCobroReparto.rdl</Name>
+      <FullPath>SubAvisoCobroReparto.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>Temporario.rdl</Name>
       <FullPath>Temporario.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>DetCtaCorriente.rdl</Name>
-      <FullPath>DetCtaCorriente.rdl</FullPath>
+
     </ProjectItem>
   </Reports>
   <Configurations>
